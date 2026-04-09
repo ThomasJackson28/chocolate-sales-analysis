@@ -27,5 +27,9 @@ Data cleaning and analysis of a chocolate sales dataset using Excel Online.
 ### Pivot 4 - Salesperson Performance
 ![Performance](pivot4-salesperson-performance.png)
 
+### Summary
+![Summary](Summary.png)
+
 ### Summary Table
-![Summary](summary-table.png)
+![Summary Table](Summary-table.png)
+
